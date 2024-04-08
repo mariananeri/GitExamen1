@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 J’espère obtenir une bonne note à cet examen
 Je termine mon examen
+=======
+J’espère obtenir une bonne note à cet examen!
+>>>>>>> Stashed changes
